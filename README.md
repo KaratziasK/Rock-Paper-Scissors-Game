@@ -18,7 +18,7 @@ Commonly used compilers include gcc on Linux and Mac, or cl for the Microsoft C+
 To compile the program, use the following command:
 
 ```sh
-gcc -o rock_scissors_paper rock_scissors_paper.c
+gcc -o game game.c
 ```
 This command compiles the rock_scissors_paper.c source file into an executable named rock_scissors_paper.
 
@@ -26,7 +26,7 @@ Running the Program
 After compilation, you can run the program with the following command:
 
 ```sh
-./rock_scissors_paper
+./game
 ```
 This will start the game, prompting the users to enter their names and begin the rounds.
 
