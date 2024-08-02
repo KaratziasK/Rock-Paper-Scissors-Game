@@ -1,9 +1,9 @@
 # Rock-Scissors-Paper Game
-** This is a simple command-line implementation of the classic Rock-Scissors-Paper game written in C. The game allows two players, one being a human and the other being the computer, to compete against each other until one player reaches a winning score. **
+**This is a simple command-line implementation of the classic Rock-Scissors-Paper game written in C. The game allows two players, one being a human and the other being the computer, to compete against each other until one player reaches a winning score.**
 
 ## Features
 - Two players: a human player and a computer.
-- Random choice for the computer using the ** rand() ** function and ** time(NULL) ** .
+- Random choice for the computer using the **rand()** function and **time(NULL).**
 - The first player to reach a score of 10 wins.
 - Displays the results of each round.
 - Displays the final winner.
