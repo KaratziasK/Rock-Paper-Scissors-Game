@@ -64,6 +64,6 @@ Winner is: Bob
 Round 1: Alice 0 - 1 Bob  (R - P)
 Round 2: Alice 1 - 1 Bob  (P - R)
 ```
-Winning Score: Change the ```c #define WIN 10``` line to adjust the number of wins required to win the game.
+Winning Score: Change the ```#define WIN 10``` line to adjust the number of wins required to win the game.
 
 **NOTE:** This project is developed as part of a university assignment at Harokopio University of Athens.
