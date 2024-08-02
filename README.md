@@ -39,7 +39,7 @@ This will start the game, prompting the users to enter their names and begin the
 - Final Results: Once a player reaches 10 points, the game announces the winner and displays a summary of all rounds.
 
 ## Code Explanation
-** Here's a brief overview of the main components of the code: **
+**Here's a brief overview of the main components of the code:**
 - Initialization: The game initializes scores and sets up the random number generator.
 - Input Handling: The program takes player names and ensures valid input for moves.
 - Game Loop: The game loop continues until one player wins 10 rounds.
